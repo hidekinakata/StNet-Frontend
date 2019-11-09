@@ -47,7 +47,7 @@ class Login extends React.Component {
                   <img
                     className="w-100 px-7 py-5"
                     alt="..."
-                    src={require("assets/img/brand/logo.svg")}
+                    src={require("../../assets/img/brand/logo.svg")}
                   />
                 </Link>
             </CardHeader>
